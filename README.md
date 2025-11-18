@@ -2,7 +2,7 @@
 
 **Booking Manager**
 
-- Java program that maangeses booking records that are stored in fixed length binary files
+- Java program that manages booking records that are stored in fixed length binary files
 - Sort bookings by start date (merge sort)
 - remove bookings that conflict: dates that are overlapping.
 - sorted bookings saved back to disk
